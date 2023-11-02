@@ -5,6 +5,8 @@ function mayuscula(nombre) {
    // Debe devolver el mismo nombre, pero con la primera letra en mayúscula.
    // [Ejemplo]: "mario" ----> "Mario".
    // Tu código:
+
+   
 }
 
 function invocarCallback(cb) {
